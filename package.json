@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-4-reservas-hoteleras",
+  "version": "0.0.1",
+  "description": "sistema de reservas hoteleras",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hotel",
+    "reservas",
+    "node"
+  ],
+  "author": "Nicolas Landero",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.3"
+  }
+}

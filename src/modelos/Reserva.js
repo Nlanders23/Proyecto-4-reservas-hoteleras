@@ -6,7 +6,7 @@ class Reserva {
      this.hotel = hotel;
      this.tipoHabitacion = tipoHabitacion;
      this.estado = estado;
-     this.numeroDeHuespedes = numeroDeHuespedes;
+     this.cantidadHuespedes = cantidadHuespedes;
     }}
 
     module.exports = Reserva

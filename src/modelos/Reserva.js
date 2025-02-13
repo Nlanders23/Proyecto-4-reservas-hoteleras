@@ -1,5 +1,5 @@
 class Reserva {
-    constructor(id, fechaInicio, fechaTermino, hotel, tipoHabitacion, estado, numeroDeHuespedes){
+    constructor(id, fechaInicio, fechaTermino, hotel, tipoHabitacion, estado, cantidadHuespedes){
      this.id = id;
      this.fechaInicio = fechaInicio;
      this.fechaTermino = fechaTermino;

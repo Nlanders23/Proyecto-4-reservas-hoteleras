@@ -10,6 +10,23 @@ En la Raíz de proyecto crea un archivo .env para configurar las variables de en
 
 Por último, para levantar nuestra aplicación ejecuta el comando npm run start en la terminal. Una vez ejecutado el comando debería aparecer un mensaje que diga "Puerto conectado" en nuestra terminal, lo cual nos indicará que estamos listos para utilizar nuestra aplicación a través de ThunderClient, Postman u otro servicio.
 
+Arquitectura de carpetas:
+
+PROYECTO-4-RESERVAS-HOTELERAS
+  |-src
+  |   |-controladores
+  |   |  |-reservaControlador.js
+  |   |-modelos
+  |   |  |-Reserva.js
+  |   |-rutas
+  |   |  |-reservasRutas.js
+  |-.gitignore
+  |-data.json
+  |-index.js
+  |-package.json
+  |-README.md
+
+
 Modelo de Reserva:
 
 Ejemplo: 

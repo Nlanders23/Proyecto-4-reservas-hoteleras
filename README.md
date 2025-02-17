@@ -13,18 +13,18 @@ Por último, para levantar nuestra aplicación ejecuta el comando npm run start 
 Arquitectura de carpetas:
 
 PROYECTO-4-RESERVAS-HOTELERAS
-  |-src
-  |   |-controladores
-  |   |  |-reservaControlador.js
-  |   |-modelos
-  |   |  |-Reserva.js
-  |   |-rutas
-  |   |  |-reservasRutas.js
-  |-.gitignore
-  |-data.json
-  |-index.js
-  |-package.json
-  |-README.md
+  - |-src
+  - |   |-controladores
+  - |   |  |-reservaControlador.js
+  - |   |-modelos
+  - |   |  |-Reserva.js
+  - |   |-rutas
+  - |   |  |-reservasRutas.js
+  - |-.gitignore
+  - |-data.json
+  - |-index.js
+  - |-package.json
+  - |-README.md
 
 
 Modelo de Reserva:
